@@ -1,0 +1,11 @@
+C:\Users\danilo.rlima5\source\repos\exercicio2_1\exercicio2_1\bin\Debug\exercicio2_1.exe.config
+C:\Users\danilo.rlima5\source\repos\exercicio2_1\exercicio2_1\bin\Debug\exercicio2_1.exe
+C:\Users\danilo.rlima5\source\repos\exercicio2_1\exercicio2_1\bin\Debug\exercicio2_1.pdb
+C:\Users\danilo.rlima5\source\repos\exercicio2_1\exercicio2_1\obj\Debug\exercicio2_1.csproj.AssemblyReference.cache
+C:\Users\danilo.rlima5\source\repos\exercicio2_1\exercicio2_1\obj\Debug\exercicio2_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\danilo.rlima5\source\repos\exercicio2_1\exercicio2_1\obj\Debug\exercicio2_1.Form1.resources
+C:\Users\danilo.rlima5\source\repos\exercicio2_1\exercicio2_1\obj\Debug\exercicio2_1.Properties.Resources.resources
+C:\Users\danilo.rlima5\source\repos\exercicio2_1\exercicio2_1\obj\Debug\exercicio2_1.csproj.GenerateResource.cache
+C:\Users\danilo.rlima5\source\repos\exercicio2_1\exercicio2_1\obj\Debug\exercicio2_1.csproj.CoreCompileInputs.cache
+C:\Users\danilo.rlima5\source\repos\exercicio2_1\exercicio2_1\obj\Debug\exercicio2_1.exe
+C:\Users\danilo.rlima5\source\repos\exercicio2_1\exercicio2_1\obj\Debug\exercicio2_1.pdb
